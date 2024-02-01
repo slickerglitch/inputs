@@ -1,0 +1,1 @@
+const clickMe = () => alert("THANK YOU!!!\nTHANK YOU!!!\nTHANK YOU!!!");
